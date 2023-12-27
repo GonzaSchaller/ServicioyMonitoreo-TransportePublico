@@ -25,6 +25,22 @@ Enunciado : https://docs.google.com/document/d/11rQXhiO0EiZEqh_RzlydB1GPJFIsSqRC
 
 # Fotos de algunas de las funcionalidades:
 
+![](Assets/Captura de pantalla 2023-12-27 190946.png)
+
+![](Assets/Captura de pantalla 2023-12-27 191257.png)
+
+![](Assets/Captura de pantalla 2023-12-27 191333.png)
+
+![](Assets/Captura de pantalla 2023-12-27 191404.png)
+
+![](Assets/Captura de pantalla 2023-12-27 191423.png)
+
+![](Assets/Captura de pantalla 2023-12-27 191441.png)
+
+![](Assets/Captura de pantalla 2023-12-27 191459.png)
+
+![](Assets/Captura de pantalla 2023-12-27 191523.png)
+
 
 
 
