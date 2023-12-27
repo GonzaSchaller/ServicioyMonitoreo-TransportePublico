@@ -24,12 +24,7 @@ Enunciado : https://docs.google.com/document/d/11rQXhiO0EiZEqh_RzlydB1GPJFIsSqRC
 
 
 # Fotos de algunas de las funcionalidades:
-![image](https://github.com/GonzaSchaller/Monitoreo-de-Estado-de-Servicios-de-Transporte-P-blico-y-de-Establecimientos/assets/102746916/c023eb1a-c04d-42b0-8a7c-715df2033ca2)
-![image](https://github.com/GonzaSchaller/Monitoreo-de-Estado-de-Servicios-de-Transporte-P-blico-y-de-Establecimientos/assets/102746916/b6bd34ee-9a0f-47e7-8a33-f0957aebd270)
-![image](https://github.com/GonzaSchaller/Monitoreo-de-Estado-de-Servicios-de-Transporte-P-blico-y-de-Establecimientos/assets/102746916/f9809b19-6115-4f92-a860-26786ca195f7)
-![image](https://github.com/GonzaSchaller/Monitoreo-de-Estado-de-Servicios-de-Transporte-P-blico-y-de-Establecimientos/assets/102746916/6186d2f9-0908-4c0a-96b7-824c9a867607)
-![image](https://github.com/GonzaSchaller/Monitoreo-de-Estado-de-Servicios-de-Transporte-P-blico-y-de-Establecimientos/assets/102746916/82e9029e-dfea-4e93-ac5a-c3a7faf19baa)
-![image](https://github.com/GonzaSchaller/Monitoreo-de-Estado-de-Servicios-de-Transporte-P-blico-y-de-Establecimientos/assets/102746916/da8ebe2f-c65f-4c5d-989f-a737ca9a575f)
+
 
 
 
